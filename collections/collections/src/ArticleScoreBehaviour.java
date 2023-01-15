@@ -1,0 +1,3 @@
+interface ArticleScoreBehaviour {
+    float articleScore();
+}
